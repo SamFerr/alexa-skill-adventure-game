@@ -150,3 +150,4 @@ ASK CLI will create the skill and the Lambda function for you. The Lambda functi
 ### Documentation
 * [Official Alexa Skills Kit Node.js SDK](https://www.npmjs.com/package/alexa-sdk) - The Official Node.js SDK Documentation
 *  [Official Alexa Skills Kit Documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - Official Alexa Skills Kit Documentation
+# alexa-skill-adventure-game
